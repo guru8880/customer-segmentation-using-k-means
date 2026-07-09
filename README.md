@@ -1,4 +1,9 @@
 # Customer Segmentation with K-Means
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3af7971e%2c100%3affd200&height=230&section=header&text=Customer+Segmentation&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=K-Means+%7c+Analytics+%7c+Clustering&descSize=16&descAlignY=55&animation=fadeIn" alt="Customer Segmentation project banner" width="100%" />
+</p>
+
+<p align="center"><em>Project-themed banner generated from an internet-hosted image service for a cleaner GitHub presentation.</em></p>
 
 An unsupervised machine learning project that groups customers by behavioral and demographic similarity to support targeted marketing and customer analysis.
 
